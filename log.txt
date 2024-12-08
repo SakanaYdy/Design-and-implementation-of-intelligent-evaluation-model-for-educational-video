@@ -1,0 +1,6 @@
+hello
+world
+Processing folder: 0
+Processing folder: 0
+Processing folder: 1
+Processing folder: 2
